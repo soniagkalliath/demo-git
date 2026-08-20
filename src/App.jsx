@@ -8,7 +8,7 @@ function App() {
   return (
     <>
       <Navbar/>
-      <h1>E Commerce - React App</h1>
+      <h1>E Commerce - React App</h1>      
     </>
   )
 }
